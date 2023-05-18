@@ -1,4 +1,4 @@
-public class 두수의_나눗셈 기{
+public class 두수의_나눗셈{
     public int solution(int num1, int num2) {
 
 
