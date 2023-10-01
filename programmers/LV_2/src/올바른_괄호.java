@@ -1,7 +1,7 @@
 public class 올바른_괄호 {
 
     boolean solution(String s) {
-        boolean answer = false
+        boolean answer = false;
         int open = 0;
         int close = 0;
         for (int i = 0; i < s.length(); i++) {
