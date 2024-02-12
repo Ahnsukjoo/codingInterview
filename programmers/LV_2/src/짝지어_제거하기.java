@@ -1,3 +1,4 @@
+import java.util.*;
 public class 짝지어_제거하기 {
 
     public int solution(String s) {

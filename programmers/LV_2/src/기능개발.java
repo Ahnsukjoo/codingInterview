@@ -1,4 +1,7 @@
+import java.util.*;
+
 public class 기능개발 {
+
     public int[] solution(int[] progresses, int[] speeds) {
         Queue<Integer> daysQueue = new LinkedList<>();
         Stack<Integer> taskCountStack = new Stack<>();
