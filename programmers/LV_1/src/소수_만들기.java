@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class 소수_만들기 {
 
     public int solution(int[] nums) {
