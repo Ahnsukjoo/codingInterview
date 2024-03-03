@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class 홀짝_구분하기 {
 
     public static void main(String[] args) {
