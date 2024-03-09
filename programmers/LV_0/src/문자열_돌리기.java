@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class 문자열_돌리기 {
 
     public static void main(String[] args) {
