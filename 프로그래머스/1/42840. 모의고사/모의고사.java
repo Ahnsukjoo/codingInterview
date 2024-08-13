@@ -34,7 +34,6 @@ class Solution {
             }
         }
         int max = Arrays.stream(answerCount).max().getAsInt();
-        //둘만 같을경우
         List<Integer> num = new ArrayList<>();
         for(int i = 0; i < 3; i++){
             if(max == answerCount[i]){
@@ -44,6 +43,5 @@ class Solution {
         return num.stream().mapToInt(Integer::intValue).toArray();
         
         
-        //return answerCount;
     }
 }
